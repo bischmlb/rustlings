@@ -1,0 +1,11 @@
+C:\Users\Mathias\rustlings\target\release\deps\libanstyle_wincon-1ba5a5bf4ba9c68a.rmeta: C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lib.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\console.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lockable.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\stream.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\windows.rs
+
+C:\Users\Mathias\rustlings\target\release\deps\libanstyle_wincon-1ba5a5bf4ba9c68a.rlib: C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lib.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\console.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lockable.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\stream.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\windows.rs
+
+C:\Users\Mathias\rustlings\target\release\deps\anstyle_wincon-1ba5a5bf4ba9c68a.d: C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lib.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\console.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lockable.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\stream.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\windows.rs
+
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lib.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\console.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lockable.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\stream.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\windows.rs:

@@ -1,0 +1,13 @@
+C:\Users\Mathias\rustlings\target\debug\deps\libtoml-9640e7d9986388f2.rmeta: C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\lib.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\map.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\value.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\de.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\ser.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\macros.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\edit.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\fmt.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\table.rs
+
+C:\Users\Mathias\rustlings\target\debug\deps\toml-9640e7d9986388f2.d: C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\lib.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\map.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\value.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\de.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\ser.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\macros.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\edit.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\fmt.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\table.rs
+
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\lib.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\map.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\value.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\de.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\ser.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\macros.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\edit.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\fmt.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.7.8\src\table.rs:

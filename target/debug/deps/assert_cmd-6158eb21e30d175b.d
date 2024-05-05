@@ -1,0 +1,11 @@
+C:\Users\Mathias\rustlings\target\debug\deps\libassert_cmd-6158eb21e30d175b.rmeta: C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\lib.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\assert.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cargo.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cmd.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\output.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\color.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\../README.md
+
+C:\Users\Mathias\rustlings\target\debug\deps\assert_cmd-6158eb21e30d175b.d: C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\lib.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\assert.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cargo.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cmd.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\output.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\color.rs C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\../README.md
+
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\lib.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\assert.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cargo.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cmd.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\output.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\color.rs:
+C:\Users\Mathias\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\../README.md:
